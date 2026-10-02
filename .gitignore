@@ -1,0 +1,9 @@
+build/
+*.pro.user
+*.pro.user.*
+*.o
+*.obj
+*.exe
+*.dll
+Makefile
+.qmake.stash
